@@ -1,4 +1,4 @@
-# pylite-python-
+# pylite (python)
 
 Pylite is project started by @Tams-Tams in https://github.com/Tams-Tams/PyLite, and it is written in Javascript. 
 
